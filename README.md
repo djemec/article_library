@@ -1,2 +1,3 @@
 # article_library
-tool to help manage article reading
+- tool to help manage article reading
+## IN PROGRESS
